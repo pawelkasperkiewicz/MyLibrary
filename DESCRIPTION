@@ -1,0 +1,10 @@
+Package: MyLibrary
+Title: Library of my functions
+Version: 0.0.0.9000
+Authors@R: person("Pawe³", "Kasperkiewicz", email = "logim250@gmial.com", role = c("aut", "cre"))
+Description: Library contain all my functions
+Depends: R (>= 3.5.0)
+License: Open source
+Encoding: UTF-8
+LazyData: true
+Suggests: clusterSim, cluster, foreach, doParallel
